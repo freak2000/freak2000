@@ -6,8 +6,8 @@
 #### 📫My blog:freak2000.github.io
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freak2000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freak2000)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1932723405@qq.com)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
