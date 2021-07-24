@@ -4,7 +4,8 @@
 #### 😄I like reading books,watching movies,and thinking about problems
 #### ⚽I am also a football fan
 #### 📫My blog:freak2000.github.io
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freak2000)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freak2000)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freak2000&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freak2000)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freak2000)](https://github.com/anuraghazra/github-readme-stats)
 
