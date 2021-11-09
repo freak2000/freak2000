@@ -1,4 +1,4 @@
-`<img src="https://user-images.githubusercontent.com/61571708/140887300-655fb55c-c128-404e-b84d-8d2dfaaead61.jpg">`
+![img]("https://user-images.githubusercontent.com/61571708/140887300-655fb55c-c128-404e-b84d-8d2dfaaead61.jpg")
 ### Hi there 👋
 #### I am lhy from 🇨🇳
 #### 🔭I’m currently learning Front-end development and mobile development
